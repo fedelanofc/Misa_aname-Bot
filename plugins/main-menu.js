@@ -34,7 +34,7 @@ const defaultMenu = {
 “ Hola *humano* mi nombre es *MISA AMANE BOT*, %greeting ”
 
 ╔══✦「 Info del Bot 」✦══╗
-║ ✧ 👑 Creador: 🐉NeoTokyo Beats🐲
+║ ✧ 👑 Creador: 𝖿ᥱძᥱᥣᥲᥒᥡ𝗍
 ║ ✧ 🤖 Tipo Bot: misa amane bot 
 ║ ✧ 🌍 Modo: public
 ║ ✧ 📚 Baileys: Multi Device
@@ -184,13 +184,13 @@ await conn.sendMessage(
     mentionedJid: [m.sender],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363341523880410@newsletter',
-      newsletterName: '𝙈𝙄𝙎𝘼-𝘼𝙈𝘼𝙉𝙀-𝘽𝙊𝙏-𝙈𝘿',
+      newsletterJid: '120363400708262483@newsletter',
+      newsletterName: '⏤͟͟͞͞★𝙸𝙽𝙵𝙸𝙽𝙸𝚃𝚈-𝙲𝙷𝙰𝙽𝙽𝙴𝙻🌟᭄',
       serverMessageId: -1,
     },
     forwardingScore: 999,
     externalAdReply: {
-      title: '𝙈𝙄𝙎𝘼-𝘼𝙈𝘼𝙉𝙀-𝘽𝙊𝙏-𝙈𝘿',
+      title: '⏤͟͟͞͞★𝙸𝙽𝙵𝙸𝙽𝙸𝚃𝚈-𝙲𝙷𝙰𝙽𝙽𝙴𝙻🌟᭄',
       body: dev,
       thumbnailUrl: icono,
       sourceUrl: redes,
