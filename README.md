@@ -102,15 +102,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/TOKIO5025"><img src="https://github.com/TOKIO5025.png" width="250" height="250" alt="🐉NeoTokyo Beats🐲"/></a>
   
 
-## `🌼COLABORADORES DEL BOT🌼` 
-<a href="[https://github.com/TOKIO5025]"><img src="https://github.com/TOKIO5025.png" width="100" height="100" alt="TOKIO5025"/></a>
-<a href="[https://github.com/TOKIO5025.png]"><img src="https://github.com/TOKIO5025.png" width="100" height="100" alt="TOKIO5025"/></a>
-<td align="center"><a 
-<a href="[https://github.com/TOKIO5025]"><img src="https://github.com/TOKIO5025.png" width="100" height="100" alt="TOKIO5025"/></a>
-  
-## `Misa-amane-Bot-MD`
-## `Dueño:🐉NeoTokyo Beats🐲`
-
 ____
 ### **`Superiority Pro Hosting 🤖`**
 <a href="https://dash.superiority.pro/login"><img src="https://qu.ax/TiBm.jpg" height="125px"></a>
@@ -124,5 +115,3 @@ ____
 
 </details>
 ------------------
-
-© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 🐉NeoTokyo Beats🐲︎
