@@ -1,9 +1,3 @@
->👑𝗖𝗿𝗲𝗮𝗱𝗼𝗿: 🐉NeoTokyo Beats🐲
-
->🪼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: no ay xd 
-
->🪼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: emer
-
 ## `Misa-amane-Bot-MD` 
 <p align="center">
 <img src="https://files.catbox.moe/9mif3l.jpg" alt="Misa-amane-Bot-MD" width="900"/>
