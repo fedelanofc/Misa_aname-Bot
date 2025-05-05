@@ -99,7 +99,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `🌹PROPIETARIO DEL BOT🌹` 
-<a href="https://github.com/TOKIO5025"><img src="https://github.com/TOKIO5025.png" width="250" height="250" alt="🐉NeoTokyo Beats🐲"/></a>
+<a href="https://github.com/fedelanofc"><img src="https://github.com/fedelanofc.png" width="250" height="250" alt="fedelan"/></a>
   
 
 ____
